@@ -1,0 +1,11 @@
+{
+    "ip": "game1.falix.cc",
+    "port": "39145",
+    "name": "AterBot",
+    "auto-reconnect": "true",
+    "comment": "If True Then Bot Will Skip Night",
+    "login-enabled": "false",
+    "comment": "If True Then Bot Will Login/Register",
+    "register-cmd": "/register {password} {password}",
+    "login-cmd": "/login {password}"
+   }
